@@ -1,0 +1,1034 @@
+[
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is o-tolyl(p-tolyl)methanone with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC=C2C, the second reactant is potassium trifluoro(phenyl)borate with SMILES F[B-](F)(F)C1=CC=CC=C1.[K+], the product formed is 2-(3-(4-methylbenzoyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC(C3=CC=CC=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 56.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is o-tolyl(p-tolyl)methanone with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC=C2C, the second reactant is potassium trifluoro(4-fluorophenyl)borate with SMILES F[B-](F)(F)C1=CC=C(F)C=C1.[K+], the product formed is 2-(4'-fluoro-3-(4-methylbenzoyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC(C3=CC=C(F)C=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 71.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is o-tolyl(p-tolyl)methanone with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC=C2C, the second reactant is potassium (4-chlorophenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC=C(Cl)C=C1.[K+], the product formed is 2-(4'-chloro-3-(4-methylbenzoyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC(C3=CC=C(Cl)C=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 70.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is o-tolyl(p-tolyl)methanone with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC=C2C, the second reactant is potassium (4-bromophenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC=C(Br)C=C1.[K+], the product formed is 2-(4'-bromo-3-(4-methylbenzoyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC(C3=CC=C(Br)C=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 40.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is o-tolyl(p-tolyl)methanone with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC=C2C, the second reactant is potassium trifluoro(4-(trifluoromethyl)phenyl)borate with SMILES F[B-](F)(F)C1=CC=C(C(F)(F)F)C=C1.[K+], the product formed is 2-(3-(4-methylbenzoyl)-4'-(trifluoromethyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC(C3=CC=C(C(F)(F)F)C=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 29.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is o-tolyl(p-tolyl)methanone with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC=C2C, the second reactant is potassium (4-cyanophenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC=C(C#N)C=C1.[K+], the product formed is 2-(4'-cyano-3-(4-methylbenzoyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC(C3=CC=C(C#N)C=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 41.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is o-tolyl(p-tolyl)methanone with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC=C2C, the second reactant is potassium trifluoro(4-nitrophenyl)borate with SMILES F[B-](F)(F)C1=CC=C([N+]([O-])=O)C=C1.[K+], the product formed is 2-(3-(4-methylbenzoyl)-4'-nitro-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC(C3=CC=C([N+]([O-])=O)C=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 22.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is o-tolyl(p-tolyl)methanone with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC=C2C, the second reactant is potassium trifluoro(p-tolyl)borate with SMILES F[B-](F)(F)C1=CC=C(C)C=C1.[K+], the product formed is 2-(4'-methyl-3-(4-methylbenzoyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC(C3=CC=C(C)C=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 53.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is o-tolyl(p-tolyl)methanone with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC=C2C, the second reactant is potassium (4-(tert-butyl)phenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC=C(C(C)(C)C)C=C1.[K+], the product formed is 2-(4'-(tert-butyl)-3-(4-methylbenzoyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC(C3=CC=C(C(C)(C)C)C=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 63.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is o-tolyl(p-tolyl)methanone with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC=C2C, the second reactant is potassium trifluoro(4-methoxyphenyl)borate with SMILES F[B-](F)(F)C1=CC=C(OC)C=C1.[K+], the product formed is 2-(4'-methoxy-3-(4-methylbenzoyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC(C3=CC=C(OC)C=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 71.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is o-tolyl(p-tolyl)methanone with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC=C2C, the second reactant is potassium (4-butoxyphenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC=C(OCCCC)C=C1.[K+], the product formed is 2-(4'-butoxy-3-(4-methylbenzoyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC(C3=CC=C(OCCCC)C=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 50.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is o-tolyl(p-tolyl)methanone with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC=C2C, the second reactant is potassium (4-(benzyloxy)phenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC=C(OCC2=CC=CC=C2)C=C1.[K+], the product formed is 2-(4'-(benzyloxy)-3-(4-methylbenzoyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC(C3=CC=C(OCC4=CC=CC=C4)C=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 36.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is o-tolyl(p-tolyl)methanone with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC=C2C, the second reactant is potassium trifluoro(3-fluorophenyl)borate with SMILES F[B-](F)(F)C1=CC=CC(F)=C1.[K+], the product formed is 2-(3'-fluoro-3-(4-methylbenzoyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC(C3=CC(F)=CC=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 47.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is o-tolyl(p-tolyl)methanone with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC=C2C, the second reactant is potassium (3-chlorophenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC=CC(Cl)=C1.[K+], the product formed is 2-(3'-chloro-3-(4-methylbenzoyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC(C3=CC(Cl)=CC=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 49.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is o-tolyl(p-tolyl)methanone with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC=C2C, the second reactant is potassium (3-bromophenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC=CC(Br)=C1.[K+], the product formed is 2-(3'-bromo-3-(4-methylbenzoyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC(C3=CC(Br)=CC=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 31.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is o-tolyl(p-tolyl)methanone with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC=C2C, the second reactant is potassium trifluoro(3-nitrophenyl)borate with SMILES F[B-](F)(F)C1=CC=CC([N+]([O-])=O)=C1.[K+], the product formed is 2-(3-(4-methylbenzoyl)-3'-nitro-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC(C3=CC([N+]([O-])=O)=CC=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 32.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is o-tolyl(p-tolyl)methanone with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC=C2C, the second reactant is potassium (3-cyanophenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC=CC(C#N)=C1.[K+], the product formed is 2-(3'-cyano-3-(4-methylbenzoyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC(C3=CC(C#N)=CC=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 42.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is o-tolyl(p-tolyl)methanone with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC=C2C, the second reactant is potassium trifluoro(3-methoxyphenyl)borate with SMILES F[B-](F)(F)C1=CC=CC(OC)=C1.[K+], the product formed is 2-(3'-methoxy-3-(4-methylbenzoyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC(C3=CC(OC)=CC=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 48.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is o-tolyl(p-tolyl)methanone with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC=C2C, the second reactant is potassium (3-(benzyloxy)phenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC=CC(OCC2=CC=CC=C2)=C1.[K+], the product formed is 2-(3'-(benzyloxy)-3-(4-methylbenzoyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC(C3=CC(OCC4=CC=CC=C4)=CC=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 60.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is o-tolyl(p-tolyl)methanone with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC=C2C, the second reactant is potassium (2-cyanophenyl)trifluoroborate with SMILES F[B-](F)(F)C1=C(C#N)C=CC=C1.[K+], the product formed is 2-(2'-cyano-3-(4-methylbenzoyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC(C3=C(C#N)C=CC=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is o-tolyl(p-tolyl)methanone with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC=C2C, the second reactant is potassium trifluoro(2-(methylsulfonyl)phenyl)borate with SMILES F[B-](F)(F)C1=C(S(=O)(C)=O)C=CC=C1.[K+], the product formed is 2-(3-(4-methylbenzoyl)-2'-(methylsulfonyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC(C3=C(S(=O)(C)=O)C=CC=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is o-tolyl(p-tolyl)methanone with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC=C2C, the second reactant is potassium trifluoro(o-tolyl)borate with SMILES F[B-](F)(F)C1=C(C)C=CC=C1.[K+], the product formed is 2-(2'-methyl-3-(4-methylbenzoyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC(C3=C(C)C=CC=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 9.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is o-tolyl(p-tolyl)methanone with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC=C2C, the second reactant is potassium trifluoro(2-methoxyphenyl)borate with SMILES F[B-](F)(F)C1=C(OC)C=CC=C1.[K+], the product formed is 2-(2'-methoxy-3-(4-methylbenzoyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC(C3=C(OC)C=CC=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 29.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is o-tolyl(p-tolyl)methanone with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC=C2C, the second reactant is potassium (3,5-bis(trifluoromethyl)phenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC(C(F)(F)F)=CC(C(F)(F)F)=C1.[K+], the product formed is 2-(3-(4-methylbenzoyl)-3',5'-bis(trifluoromethyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC(C3=CC(C(F)(F)F)=CC(C(F)(F)F)=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 10.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is o-tolyl(p-tolyl)methanone with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC=C2C, the second reactant is potassium (3-chloro-4-fluorophenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC(Cl)=C(F)C=C1.[K+], the product formed is 2-(3'-chloro-4'-fluoro-3-(4-methylbenzoyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC(C3=CC(Cl)=C(F)C=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 30.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is o-tolyl(p-tolyl)methanone with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC=C2C, the second reactant is potassium (2,4-dichlorophenyl)trifluoroborate with SMILES F[B-](F)(F)C1=C(Cl)C=C(Cl)C=C1.[K+], the product formed is 2-(2',4'-dichloro-3-(4-methylbenzoyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC(C3=C(Cl)C=C(Cl)C=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 22.5%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is o-tolyl(p-tolyl)methanone with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC=C2C, the second reactant is potassium (2,4-dimethylphenyl)trifluoroborate with SMILES F[B-](F)(F)C1=C(C)C=C(C)C=C1.[K+], the product formed is 2-(2',4'-dimethyl-3-(4-methylbenzoyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC(C3=C(C)C=C(C)C=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 22.5%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is o-tolyl(p-tolyl)methanone with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC=C2C, the second reactant is potassium (2,6-difluorophenyl)trifluoroborate with SMILES F[B-](F)(F)C1=C(F)C=CC=C1F.[K+], the product formed is 2-(2',6'-difluoro-3-(4-methylbenzoyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC(C3=C(F)C=CC=C3F)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is o-tolyl(p-tolyl)methanone with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC=C2C, the second reactant is potassium (2,6-dimethylphenyl)trifluoroborate with SMILES F[B-](F)(F)C1=C(C)C=CC=C1C.[K+], the product formed is 2-(2',6'-dimethyl-3-(4-methylbenzoyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC(C3=C(C)C=CC=C3C)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is o-tolyl(p-tolyl)methanone with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC=C2C, the second reactant is potassium trifluoro(naphthalen-1-yl)borate with SMILES F[B-](F)(F)C1=C(C=CC=C2)C2=CC=C1.[K+], the product formed is 2-(2-(4-methylbenzoyl)-6-(naphthalen-1-yl)phenyl)acetic acid with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC(C3=C(C=CC=C4)C4=CC=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 23.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is o-tolyl(p-tolyl)methanone with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC=C2C, the second reactant is potassium trifluoro(naphthalen-2-yl)borate with SMILES F[B-](F)(F)C1=CC(C=CC=C2)=C2C=C1.[K+], the product formed is 2-(2-(4-methylbenzoyl)-6-(naphthalen-2-yl)phenyl)acetic acid with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC(C3=CC(C=CC=C4)=C4C=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 38.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is o-tolyl(p-tolyl)methanone with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC=C2C, the second reactant is potassium benzo[d][1,3]dioxol-5-yltrifluoroborate with SMILES F[B-](F)(F)C1=CC(OCO2)=C2C=C1.[K+], the product formed is 2-(2-(benzo[d][1,3]dioxol-5-yl)-6-(4-methylbenzoyl)phenyl)acetic acid with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC(C3=CC(OCO4)=C4C=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 44.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is o-tolyl(p-tolyl)methanone with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC=C2C, the second reactant is potassium (4-acetylphenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC=C(C(C)=O)C=C1.[K+], the product formed is 2-(4'-acetyl-3-(4-methylbenzoyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC(C3=CC=C(C(C)=O)C=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 53.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is o-tolyl(p-tolyl)methanone with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC=C2C, the second reactant is potassium (4-carboxyphenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC=C(C(O)=O)C=C1.[K+], the product formed is 2'-(carboxymethyl)-3'-(4-methylbenzoyl)-[1,1'-biphenyl]-4-carboxylic acid with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC(C3=CC=C(C(O)=O)C=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is o-tolyl(p-tolyl)methanone with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC=C2C, the second reactant is potassium trifluoro(4-hydroxyphenyl)borate with SMILES F[B-](F)(F)C1=CC=C(O)C=C1.[K+], the product formed is 2-(4'-hydroxy-3-(4-methylbenzoyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC(C3=CC=C(O)C=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 23.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is o-tolyl(p-tolyl)methanone with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC=C2C, the second reactant is potassium trifluoro(4-formylphenyl)borate with SMILES F[B-](F)(F)C1=CC=C(C=O)C=C1.[K+], the product formed is 2-(4'-formyl-3-(4-methylbenzoyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC(C3=CC=C(C=O)C=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 30.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is o-tolyl(p-tolyl)methanone with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC=C2C, the second reactant is potassium trifluoro(furan-2-yl)borate with SMILES F[B-](F)(F)C1=CC=CO1.[K+], the product formed is 2-(2-(furan-2-yl)-6-(4-methylbenzoyl)phenyl)acetic acid with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC(C3=CC=CO3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 8.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is o-tolyl(p-tolyl)methanone with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC=C2C, the second reactant is potassium trifluoro(thiophen-2-yl)borate with SMILES F[B-](F)(F)C1=CC=CS1.[K+], the product formed is 2-(2-(4-methylbenzoyl)-6-(thiophen-2-yl)phenyl)acetic acid with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC(C3=CC=CS3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 24.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is o-tolyl(p-tolyl)methanone with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC=C2C, the second reactant is potassium trifluoro(thiophen-3-yl)borate with SMILES F[B-](F)(F)C1=CSC=C1.[K+], the product formed is 2-(2-(4-methylbenzoyl)-6-(thiophen-3-yl)phenyl)acetic acid with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC(C3=CSC=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 23.5%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is o-tolyl(p-tolyl)methanone with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC=C2C, the second reactant is potassium trifluoro(1-methyl-1H-pyrazol-5-yl)borate with SMILES F[B-](F)(F)C1=CC=NN1C.[K+], the product formed is 2-(2-(1-methyl-1H-pyrazol-5-yl)-6-(4-methylbenzoyl)phenyl)acetic acid with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC(C3=CC=NN3C)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is o-tolyl(p-tolyl)methanone with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC=C2C, the second reactant is potassium trifluoro(pyridin-4-yl)borate with SMILES F[B-](F)(F)C1=CC=NC=C1.[K+], the product formed is 2-(2-(4-methylbenzoyl)-6-(pyridin-4-yl)phenyl)acetic acid with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC(C3=CC=NC=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is o-tolyl(p-tolyl)methanone with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC=C2C, the second reactant is potassium trifluoro(6-fluoropyridin-3-yl)borate with SMILES F[B-](F)(F)C1=CN=C(F)C=C1.[K+], the product formed is 2-(2-(6-fluoropyridin-3-yl)-6-(4-methylbenzoyl)phenyl)acetic acid with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC(C3=CN=C(F)C=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 13.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is o-tolyl(p-tolyl)methanone with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC=C2C, the second reactant is potassium (6-chloropyridin-3-yl)trifluoroborate with SMILES F[B-](F)(F)C1=CN=C(Cl)C=C1.[K+], the product formed is 2-(2-(6-chloropyridin-3-yl)-6-(4-methylbenzoyl)phenyl)acetic acid with SMILES O=C(C1=CC=C(C)C=C1)C2=CC=CC(C3=CN=C(Cl)C=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 18.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is 1-(2,4-dimethylphenyl)ethan-1-one with SMILES O=C(C)C1=CC=C(C)C=C1C, the second reactant is potassium trifluoro(phenyl)borate with SMILES F[B-](F)(F)C1=CC=CC=C1.[K+], the product formed is 2-(3-acetyl-6-methyl-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C)C1=CC=C(C(C2=CC=CC=C2)=C1CC(O)=O)C, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 4.5%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is 1-(2,4-dimethylphenyl)ethan-1-one with SMILES O=C(C)C1=CC=C(C)C=C1C, the second reactant is potassium trifluoro(4-fluorophenyl)borate with SMILES F[B-](F)(F)C1=CC=C(F)C=C1.[K+], the product formed is 2-(3-acetyl-4'-fluoro-6-methyl-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C)C1=CC=C(C(C2=CC=C(F)C=C2)=C1CC(O)=O)C, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 4.5%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is 1-(2,4-dimethylphenyl)ethan-1-one with SMILES O=C(C)C1=CC=C(C)C=C1C, the second reactant is potassium (4-chlorophenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC=C(Cl)C=C1.[K+], the product formed is 2-(3-acetyl-4'-chloro-6-methyl-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C)C1=CC=C(C(C2=CC=C(Cl)C=C2)=C1CC(O)=O)C, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 13.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is 1-(2,4-dimethylphenyl)ethan-1-one with SMILES O=C(C)C1=CC=C(C)C=C1C, the second reactant is potassium (4-bromophenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC=C(Br)C=C1.[K+], the product formed is 2-(3-acetyl-4'-bromo-6-methyl-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C)C1=CC=C(C(C2=CC=C(Br)C=C2)=C1CC(O)=O)C, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 5.5%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is 1-(2,4-dimethylphenyl)ethan-1-one with SMILES O=C(C)C1=CC=C(C)C=C1C, the second reactant is potassium trifluoro(4-(trifluoromethyl)phenyl)borate with SMILES F[B-](F)(F)C1=CC=C(C(F)(F)F)C=C1.[K+], the product formed is 2-(3-acetyl-6-methyl-4'-(trifluoromethyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C)C1=CC=C(C(C2=CC=C(C(F)(F)F)C=C2)=C1CC(O)=O)C, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 2.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is 1-(2,4-dimethylphenyl)ethan-1-one with SMILES O=C(C)C1=CC=C(C)C=C1C, the second reactant is potassium (4-cyanophenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC=C(C#N)C=C1.[K+], the product formed is 2-(3-acetyl-4'-cyano-6-methyl-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C)C1=CC=C(C(C2=CC=C(C#N)C=C2)=C1CC(O)=O)C, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 8.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is 1-(2,4-dimethylphenyl)ethan-1-one with SMILES O=C(C)C1=CC=C(C)C=C1C, the second reactant is potassium trifluoro(4-nitrophenyl)borate with SMILES F[B-](F)(F)C1=CC=C([N+]([O-])=O)C=C1.[K+], the product formed is 2-(3-acetyl-6-methyl-4'-nitro-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C)C1=CC=C(C(C2=CC=C([N+]([O-])=O)C=C2)=C1CC(O)=O)C, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is 1-(2,4-dimethylphenyl)ethan-1-one with SMILES O=C(C)C1=CC=C(C)C=C1C, the second reactant is potassium trifluoro(p-tolyl)borate with SMILES F[B-](F)(F)C1=CC=C(C)C=C1.[K+], the product formed is 2-(3-acetyl-4',6-dimethyl-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C)C1=CC=C(C(C2=CC=C(C)C=C2)=C1CC(O)=O)C, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 17.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is 1-(2,4-dimethylphenyl)ethan-1-one with SMILES O=C(C)C1=CC=C(C)C=C1C, the second reactant is potassium (4-(tert-butyl)phenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC=C(C(C)(C)C)C=C1.[K+], the product formed is 2-(3-acetyl-4'-(tert-butyl)-6-methyl-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C)C1=CC=C(C(C2=CC=C(C(C)(C)C)C=C2)=C1CC(O)=O)C, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is 1-(2,4-dimethylphenyl)ethan-1-one with SMILES O=C(C)C1=CC=C(C)C=C1C, the second reactant is potassium trifluoro(4-methoxyphenyl)borate with SMILES F[B-](F)(F)C1=CC=C(OC)C=C1.[K+], the product formed is 2-(3-acetyl-4'-methoxy-6-methyl-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C)C1=CC=C(C(C2=CC=C(OC)C=C2)=C1CC(O)=O)C, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 9.5%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is 1-(2,4-dimethylphenyl)ethan-1-one with SMILES O=C(C)C1=CC=C(C)C=C1C, the second reactant is potassium (4-butoxyphenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC=C(OCCCC)C=C1.[K+], the product formed is 2-(3-acetyl-4'-butoxy-6-methyl-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C)C1=CC=C(C(C2=CC=C(OCCCC)C=C2)=C1CC(O)=O)C, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is 1-(2,4-dimethylphenyl)ethan-1-one with SMILES O=C(C)C1=CC=C(C)C=C1C, the second reactant is potassium (4-(benzyloxy)phenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC=C(OCC2=CC=CC=C2)C=C1.[K+], the product formed is 2-(3-acetyl-4'-(benzyloxy)-6-methyl-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C)C1=CC=C(C(C2=CC=C(OCC3=CC=CC=C3)C=C2)=C1CC(O)=O)C, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 1.5%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is 1-(2,4-dimethylphenyl)ethan-1-one with SMILES O=C(C)C1=CC=C(C)C=C1C, the second reactant is potassium trifluoro(3-fluorophenyl)borate with SMILES F[B-](F)(F)C1=CC=CC(F)=C1.[K+], the product formed is 2-(3-acetyl-3'-fluoro-6-methyl-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C)C1=CC=C(C(C2=CC(F)=CC=C2)=C1CC(O)=O)C, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 5.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is 1-(2,4-dimethylphenyl)ethan-1-one with SMILES O=C(C)C1=CC=C(C)C=C1C, the second reactant is potassium (3-chlorophenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC=CC(Cl)=C1.[K+], the product formed is 2-(3-acetyl-3'-chloro-6-methyl-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C)C1=CC=C(C(C2=CC(Cl)=CC=C2)=C1CC(O)=O)C, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 3.5%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is 1-(2,4-dimethylphenyl)ethan-1-one with SMILES O=C(C)C1=CC=C(C)C=C1C, the second reactant is potassium (3-bromophenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC=CC(Br)=C1.[K+], the product formed is 2-(3-acetyl-3'-bromo-6-methyl-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C)C1=CC=C(C(C2=CC(Br)=CC=C2)=C1CC(O)=O)C, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is 1-(2,4-dimethylphenyl)ethan-1-one with SMILES O=C(C)C1=CC=C(C)C=C1C, the second reactant is potassium trifluoro(3-nitrophenyl)borate with SMILES F[B-](F)(F)C1=CC=CC([N+]([O-])=O)=C1.[K+], the product formed is 2-(3-acetyl-6-methyl-3'-nitro-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C)C1=CC=C(C(C2=CC([N+]([O-])=O)=CC=C2)=C1CC(O)=O)C, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 5.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is 1-(2,4-dimethylphenyl)ethan-1-one with SMILES O=C(C)C1=CC=C(C)C=C1C, the second reactant is potassium (3-cyanophenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC=CC(C#N)=C1.[K+], the product formed is 2-(3-acetyl-3'-cyano-6-methyl-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C)C1=CC=C(C(C2=CC(C#N)=CC=C2)=C1CC(O)=O)C, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is 1-(2,4-dimethylphenyl)ethan-1-one with SMILES O=C(C)C1=CC=C(C)C=C1C, the second reactant is potassium trifluoro(3-methoxyphenyl)borate with SMILES F[B-](F)(F)C1=CC=CC(OC)=C1.[K+], the product formed is 2-(3-acetyl-3'-methoxy-6-methyl-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C)C1=CC=C(C(C2=CC(OC)=CC=C2)=C1CC(O)=O)C, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 8.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is 1-(2,4-dimethylphenyl)ethan-1-one with SMILES O=C(C)C1=CC=C(C)C=C1C, the second reactant is potassium (3-(benzyloxy)phenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC=CC(OCC2=CC=CC=C2)=C1.[K+], the product formed is 2-(3-acetyl-3'-(benzyloxy)-6-methyl-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C)C1=CC=C(C(C2=CC(OCC3=CC=CC=C3)=CC=C2)=C1CC(O)=O)C, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 4.5%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is 1-(2,4-dimethylphenyl)ethan-1-one with SMILES O=C(C)C1=CC=C(C)C=C1C, the second reactant is potassium (2-cyanophenyl)trifluoroborate with SMILES F[B-](F)(F)C1=C(C#N)C=CC=C1.[K+], the product formed is 2-(3-acetyl-2'-cyano-6-methyl-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C)C1=CC=C(C(C2=C(C#N)C=CC=C2)=C1CC(O)=O)C, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is 1-(2,4-dimethylphenyl)ethan-1-one with SMILES O=C(C)C1=CC=C(C)C=C1C, the second reactant is potassium trifluoro(2-(methylsulfonyl)phenyl)borate with SMILES F[B-](F)(F)C1=C(S(=O)(C)=O)C=CC=C1.[K+], the product formed is 2-(3-acetyl-6-methyl-2'-(methylsulfonyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C)C1=CC=C(C(C2=C(S(=O)(C)=O)C=CC=C2)=C1CC(O)=O)C, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is 1-(2,4-dimethylphenyl)ethan-1-one with SMILES O=C(C)C1=CC=C(C)C=C1C, the second reactant is potassium trifluoro(o-tolyl)borate with SMILES F[B-](F)(F)C1=C(C)C=CC=C1.[K+], the product formed is 2-(3-acetyl-2',6-dimethyl-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C)C1=CC=C(C(C2=C(C)C=CC=C2)=C1CC(O)=O)C, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is 1-(2,4-dimethylphenyl)ethan-1-one with SMILES O=C(C)C1=CC=C(C)C=C1C, the second reactant is potassium trifluoro(2-methoxyphenyl)borate with SMILES F[B-](F)(F)C1=C(OC)C=CC=C1.[K+], the product formed is 2-(3-acetyl-2'-methoxy-6-methyl-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C)C1=CC=C(C(C2=C(OC)C=CC=C2)=C1CC(O)=O)C, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is 1-(2,4-dimethylphenyl)ethan-1-one with SMILES O=C(C)C1=CC=C(C)C=C1C, the second reactant is potassium (3,5-bis(trifluoromethyl)phenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC(C(F)(F)F)=CC(C(F)(F)F)=C1.[K+], the product formed is 2-(3-acetyl-6-methyl-3',5'-bis(trifluoromethyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C)C1=CC=C(C(C2=CC(C(F)(F)F)=CC(C(F)(F)F)=C2)=C1CC(O)=O)C, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is 1-(2,4-dimethylphenyl)ethan-1-one with SMILES O=C(C)C1=CC=C(C)C=C1C, the second reactant is potassium (3-chloro-4-fluorophenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC(Cl)=C(F)C=C1.[K+], the product formed is 2-(3-acetyl-3'-chloro-4'-fluoro-6-methyl-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C)C1=CC=C(C(C2=CC(Cl)=C(F)C=C2)=C1CC(O)=O)C, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is 1-(2,4-dimethylphenyl)ethan-1-one with SMILES O=C(C)C1=CC=C(C)C=C1C, the second reactant is potassium (2,4-dichlorophenyl)trifluoroborate with SMILES F[B-](F)(F)C1=C(Cl)C=C(Cl)C=C1.[K+], the product formed is 2-(3-acetyl-2',4'-dichloro-6-methyl-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C)C1=CC=C(C(C2=C(Cl)C=C(Cl)C=C2)=C1CC(O)=O)C, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is 1-(2,4-dimethylphenyl)ethan-1-one with SMILES O=C(C)C1=CC=C(C)C=C1C, the second reactant is potassium (2,4-dimethylphenyl)trifluoroborate with SMILES F[B-](F)(F)C1=C(C)C=C(C)C=C1.[K+], the product formed is 2-(3-acetyl-2',4',6-trimethyl-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C)C1=CC=C(C(C2=C(C)C=C(C)C=C2)=C1CC(O)=O)C, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is 1-(2,4-dimethylphenyl)ethan-1-one with SMILES O=C(C)C1=CC=C(C)C=C1C, the second reactant is potassium (2,6-difluorophenyl)trifluoroborate with SMILES F[B-](F)(F)C1=C(F)C=CC=C1F.[K+], the product formed is 2-(3-acetyl-2',6'-difluoro-6-methyl-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C)C1=CC=C(C(C2=C(F)C=CC=C2F)=C1CC(O)=O)C, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is 1-(2,4-dimethylphenyl)ethan-1-one with SMILES O=C(C)C1=CC=C(C)C=C1C, the second reactant is potassium (2,6-dimethylphenyl)trifluoroborate with SMILES F[B-](F)(F)C1=C(C)C=CC=C1C.[K+], the product formed is 2-(3-acetyl-2',6,6'-trimethyl-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C)C1=CC=C(C(C2=C(C)C=CC=C2C)=C1CC(O)=O)C, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is 1-(2,4-dimethylphenyl)ethan-1-one with SMILES O=C(C)C1=CC=C(C)C=C1C, the second reactant is potassium trifluoro(naphthalen-1-yl)borate with SMILES F[B-](F)(F)C1=C(C=CC=C2)C2=CC=C1.[K+], the product formed is 2-(6-acetyl-3-methyl-2-(naphthalen-1-yl)phenyl)acetic acid with SMILES O=C(C)C1=CC=C(C(C2=C(C=CC=C3)C3=CC=C2)=C1CC(O)=O)C, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 3.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is 1-(2,4-dimethylphenyl)ethan-1-one with SMILES O=C(C)C1=CC=C(C)C=C1C, the second reactant is potassium trifluoro(naphthalen-2-yl)borate with SMILES F[B-](F)(F)C1=CC(C=CC=C2)=C2C=C1.[K+], the product formed is 2-(6-acetyl-3-methyl-2-(naphthalen-2-yl)phenyl)acetic acid with SMILES O=C(C)C1=CC=C(C(C2=CC(C=CC=C3)=C3C=C2)=C1CC(O)=O)C, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 4.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is 1-(2,4-dimethylphenyl)ethan-1-one with SMILES O=C(C)C1=CC=C(C)C=C1C, the second reactant is potassium benzo[d][1,3]dioxol-5-yltrifluoroborate with SMILES F[B-](F)(F)C1=CC(OCO2)=C2C=C1.[K+], the product formed is 2-(6-acetyl-2-(benzo[d][1,3]dioxol-5-yl)-3-methylphenyl)acetic acid with SMILES O=C(C)C1=CC=C(C(C2=CC(OCO3)=C3C=C2)=C1CC(O)=O)C, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 9.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is 1-(2,4-dimethylphenyl)ethan-1-one with SMILES O=C(C)C1=CC=C(C)C=C1C, the second reactant is potassium (4-acetylphenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC=C(C(C)=O)C=C1.[K+], the product formed is 2-(3,4'-diacetyl-6-methyl-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C)C1=CC=C(C(C2=CC=C(C(C)=O)C=C2)=C1CC(O)=O)C, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 3.5%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is 1-(2,4-dimethylphenyl)ethan-1-one with SMILES O=C(C)C1=CC=C(C)C=C1C, the second reactant is potassium (4-carboxyphenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC=C(C(O)=O)C=C1.[K+], the product formed is 3'-acetyl-2'-(carboxymethyl)-6'-methyl-[1,1'-biphenyl]-4-carboxylic acid with SMILES O=C(C)C1=CC=C(C(C2=CC=C(C(O)=O)C=C2)=C1CC(O)=O)C, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is 1-(2,4-dimethylphenyl)ethan-1-one with SMILES O=C(C)C1=CC=C(C)C=C1C, the second reactant is potassium trifluoro(4-hydroxyphenyl)borate with SMILES F[B-](F)(F)C1=CC=C(O)C=C1.[K+], the product formed is 2-(3-acetyl-4'-hydroxy-6-methyl-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C)C1=CC=C(C(C2=CC=C(O)C=C2)=C1CC(O)=O)C, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 5.5%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is 1-(2,4-dimethylphenyl)ethan-1-one with SMILES O=C(C)C1=CC=C(C)C=C1C, the second reactant is potassium trifluoro(4-formylphenyl)borate with SMILES F[B-](F)(F)C1=CC=C(C=O)C=C1.[K+], the product formed is 2-(3-acetyl-4'-formyl-6-methyl-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C)C1=CC=C(C(C2=CC=C(C=O)C=C2)=C1CC(O)=O)C, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 9.5%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is 1-(2,4-dimethylphenyl)ethan-1-one with SMILES O=C(C)C1=CC=C(C)C=C1C, the second reactant is potassium trifluoro(furan-2-yl)borate with SMILES F[B-](F)(F)C1=CC=CO1.[K+], the product formed is 2-(6-acetyl-2-(furan-2-yl)-3-methylphenyl)acetic acid with SMILES O=C(C)C1=CC=C(C(C2=CC=CO2)=C1CC(O)=O)C, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is 1-(2,4-dimethylphenyl)ethan-1-one with SMILES O=C(C)C1=CC=C(C)C=C1C, the second reactant is potassium trifluoro(thiophen-2-yl)borate with SMILES F[B-](F)(F)C1=CC=CS1.[K+], the product formed is 2-(6-acetyl-3-methyl-2-(thiophen-2-yl)phenyl)acetic acid with SMILES O=C(C)C1=CC=C(C(C2=CC=CS2)=C1CC(O)=O)C, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 4.5%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is 1-(2,4-dimethylphenyl)ethan-1-one with SMILES O=C(C)C1=CC=C(C)C=C1C, the second reactant is potassium trifluoro(thiophen-3-yl)borate with SMILES F[B-](F)(F)C1=CSC=C1.[K+], the product formed is 2-(6-acetyl-3-methyl-2-(thiophen-3-yl)phenyl)acetic acid with SMILES O=C(C)C1=CC=C(C(C2=CSC=C2)=C1CC(O)=O)C, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 1.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is 1-(2,4-dimethylphenyl)ethan-1-one with SMILES O=C(C)C1=CC=C(C)C=C1C, the second reactant is potassium trifluoro(1-methyl-1H-pyrazol-5-yl)borate with SMILES F[B-](F)(F)C1=CC=NN1C.[K+], the product formed is 2-(6-acetyl-3-methyl-2-(1-methyl-1H-pyrazol-5-yl)phenyl)acetic acid with SMILES O=C(C)C1=CC=C(C(C2=CC=NN2C)=C1CC(O)=O)C, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is 1-(2,4-dimethylphenyl)ethan-1-one with SMILES O=C(C)C1=CC=C(C)C=C1C, the second reactant is potassium trifluoro(pyridin-4-yl)borate with SMILES F[B-](F)(F)C1=CC=NC=C1.[K+], the product formed is 2-(6-acetyl-3-methyl-2-(pyridin-4-yl)phenyl)acetic acid with SMILES O=C(C)C1=CC=C(C(C2=CC=NC=C2)=C1CC(O)=O)C, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is 1-(2,4-dimethylphenyl)ethan-1-one with SMILES O=C(C)C1=CC=C(C)C=C1C, the second reactant is potassium trifluoro(6-fluoropyridin-3-yl)borate with SMILES F[B-](F)(F)C1=CN=C(F)C=C1.[K+], the product formed is 2-(6-acetyl-2-(6-fluoropyridin-3-yl)-3-methylphenyl)acetic acid with SMILES O=C(C)C1=CC=C(C(C2=CN=C(F)C=C2)=C1CC(O)=O)C, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is 1-(2,4-dimethylphenyl)ethan-1-one with SMILES O=C(C)C1=CC=C(C)C=C1C, the second reactant is potassium (6-chloropyridin-3-yl)trifluoroborate with SMILES F[B-](F)(F)C1=CN=C(Cl)C=C1.[K+], the product formed is 2-(6-acetyl-2-(6-chloropyridin-3-yl)-3-methylphenyl)acetic acid with SMILES O=C(C)C1=CC=C(C(C2=CN=C(Cl)C=C2)=C1CC(O)=O)C, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2-phenethylphenyl)(phenyl)methanone with SMILES O=C(C1=CC=CC=C1)C2=CC=CC=C2CCC3=CC=CC=C3, the second reactant is potassium trifluoro(phenyl)borate with SMILES F[B-](F)(F)C1=CC=CC=C1.[K+], the product formed is 2-(3-benzoyl-[1,1'-biphenyl]-2-yl)-3-phenylpropanoic acid with SMILES O=C(C1=CC=CC=C1)C2=CC=CC(C3=CC=CC=C3)=C2C(C(O)=O)CC4=CC=CC=C4, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 48.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2-phenethylphenyl)(phenyl)methanone with SMILES O=C(C1=CC=CC=C1)C2=CC=CC=C2CCC3=CC=CC=C3, the second reactant is potassium trifluoro(4-fluorophenyl)borate with SMILES F[B-](F)(F)C1=CC=C(F)C=C1.[K+], the product formed is 2-(3-benzoyl-4'-fluoro-[1,1'-biphenyl]-2-yl)-3-phenylpropanoic acid with SMILES O=C(C1=CC=CC=C1)C2=CC=CC(C3=CC=C(F)C=C3)=C2C(C(O)=O)CC4=CC=CC=C4, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 44.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2-phenethylphenyl)(phenyl)methanone with SMILES O=C(C1=CC=CC=C1)C2=CC=CC=C2CCC3=CC=CC=C3, the second reactant is potassium (4-chlorophenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC=C(Cl)C=C1.[K+], the product formed is 2-(3-benzoyl-4'-chloro-[1,1'-biphenyl]-2-yl)-3-phenylpropanoic acid with SMILES O=C(C1=CC=CC=C1)C2=CC=CC(C3=CC=C(Cl)C=C3)=C2C(C(O)=O)CC4=CC=CC=C4, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 30.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2-phenethylphenyl)(phenyl)methanone with SMILES O=C(C1=CC=CC=C1)C2=CC=CC=C2CCC3=CC=CC=C3, the second reactant is potassium (4-bromophenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC=C(Br)C=C1.[K+], the product formed is 2-(3-benzoyl-4'-bromo-[1,1'-biphenyl]-2-yl)-3-phenylpropanoic acid with SMILES O=C(C1=CC=CC=C1)C2=CC=CC(C3=CC=C(Br)C=C3)=C2C(C(O)=O)CC4=CC=CC=C4, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 27.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2-phenethylphenyl)(phenyl)methanone with SMILES O=C(C1=CC=CC=C1)C2=CC=CC=C2CCC3=CC=CC=C3, the second reactant is potassium trifluoro(4-(trifluoromethyl)phenyl)borate with SMILES F[B-](F)(F)C1=CC=C(C(F)(F)F)C=C1.[K+], the product formed is 2-(3-benzoyl-4'-(trifluoromethyl)-[1,1'-biphenyl]-2-yl)-3-phenylpropanoic acid with SMILES O=C(C1=CC=CC=C1)C2=CC=CC(C3=CC=C(C(F)(F)F)C=C3)=C2C(C(O)=O)CC4=CC=CC=C4, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 21.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2-phenethylphenyl)(phenyl)methanone with SMILES O=C(C1=CC=CC=C1)C2=CC=CC=C2CCC3=CC=CC=C3, the second reactant is potassium (4-cyanophenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC=C(C#N)C=C1.[K+], the product formed is 2-(3-benzoyl-4'-cyano-[1,1'-biphenyl]-2-yl)-3-phenylpropanoic acid with SMILES O=C(C1=CC=CC=C1)C2=CC=CC(C3=CC=C(C#N)C=C3)=C2C(C(O)=O)CC4=CC=CC=C4, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 15.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2-phenethylphenyl)(phenyl)methanone with SMILES O=C(C1=CC=CC=C1)C2=CC=CC=C2CCC3=CC=CC=C3, the second reactant is potassium trifluoro(4-nitrophenyl)borate with SMILES F[B-](F)(F)C1=CC=C([N+]([O-])=O)C=C1.[K+], the product formed is 2-(3-benzoyl-4'-nitro-[1,1'-biphenyl]-2-yl)-3-phenylpropanoic acid with SMILES O=C(C1=CC=CC=C1)C2=CC=CC(C3=CC=C([N+]([O-])=O)C=C3)=C2C(C(O)=O)CC4=CC=CC=C4, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 31.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2-phenethylphenyl)(phenyl)methanone with SMILES O=C(C1=CC=CC=C1)C2=CC=CC=C2CCC3=CC=CC=C3, the second reactant is potassium trifluoro(p-tolyl)borate with SMILES F[B-](F)(F)C1=CC=C(C)C=C1.[K+], the product formed is 2-(3-benzoyl-4'-methyl-[1,1'-biphenyl]-2-yl)-3-phenylpropanoic acid with SMILES O=C(C1=CC=CC=C1)C2=CC=CC(C3=CC=C(C)C=C3)=C2C(C(O)=O)CC4=CC=CC=C4, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 44.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2-phenethylphenyl)(phenyl)methanone with SMILES O=C(C1=CC=CC=C1)C2=CC=CC=C2CCC3=CC=CC=C3, the second reactant is potassium (4-(tert-butyl)phenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC=C(C(C)(C)C)C=C1.[K+], the product formed is 2-(3-benzoyl-4'-(tert-butyl)-[1,1'-biphenyl]-2-yl)-3-phenylpropanoic acid with SMILES O=C(C1=CC=CC=C1)C2=CC=CC(C3=CC=C(C(C)(C)C)C=C3)=C2C(C(O)=O)CC4=CC=CC=C4, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 27.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2-phenethylphenyl)(phenyl)methanone with SMILES O=C(C1=CC=CC=C1)C2=CC=CC=C2CCC3=CC=CC=C3, the second reactant is potassium trifluoro(4-methoxyphenyl)borate with SMILES F[B-](F)(F)C1=CC=C(OC)C=C1.[K+], the product formed is 2-(3-benzoyl-4'-methoxy-[1,1'-biphenyl]-2-yl)-3-phenylpropanoic acid with SMILES O=C(C1=CC=CC=C1)C2=CC=CC(C3=CC=C(OC)C=C3)=C2C(C(O)=O)CC4=CC=CC=C4, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 33.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2-phenethylphenyl)(phenyl)methanone with SMILES O=C(C1=CC=CC=C1)C2=CC=CC=C2CCC3=CC=CC=C3, the second reactant is potassium (4-butoxyphenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC=C(OCCCC)C=C1.[K+], the product formed is 2-(3-benzoyl-4'-butoxy-[1,1'-biphenyl]-2-yl)-3-phenylpropanoic acid with SMILES O=C(C1=CC=CC=C1)C2=CC=CC(C3=CC=C(OCCCC)C=C3)=C2C(C(O)=O)CC4=CC=CC=C4, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 37.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2-phenethylphenyl)(phenyl)methanone with SMILES O=C(C1=CC=CC=C1)C2=CC=CC=C2CCC3=CC=CC=C3, the second reactant is potassium (4-(benzyloxy)phenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC=C(OCC2=CC=CC=C2)C=C1.[K+], the product formed is 2-(3-benzoyl-4'-(benzyloxy)-[1,1'-biphenyl]-2-yl)-3-phenylpropanoic acid with SMILES O=C(C1=CC=CC=C1)C2=CC=CC(C3=CC=C(OCC4=CC=CC=C4)C=C3)=C2C(C(O)=O)CC5=CC=CC=C5, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 22.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2-phenethylphenyl)(phenyl)methanone with SMILES O=C(C1=CC=CC=C1)C2=CC=CC=C2CCC3=CC=CC=C3, the second reactant is potassium trifluoro(3-fluorophenyl)borate with SMILES F[B-](F)(F)C1=CC=CC(F)=C1.[K+], the product formed is 2-(3-benzoyl-3'-fluoro-[1,1'-biphenyl]-2-yl)-3-phenylpropanoic acid with SMILES O=C(C1=CC=CC=C1)C2=CC=CC(C3=CC(F)=CC=C3)=C2C(C(O)=O)CC4=CC=CC=C4, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 27.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2-phenethylphenyl)(phenyl)methanone with SMILES O=C(C1=CC=CC=C1)C2=CC=CC=C2CCC3=CC=CC=C3, the second reactant is potassium (3-chlorophenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC=CC(Cl)=C1.[K+], the product formed is 2-(3-benzoyl-3'-chloro-[1,1'-biphenyl]-2-yl)-3-phenylpropanoic acid with SMILES O=C(C1=CC=CC=C1)C2=CC=CC(C3=CC(Cl)=CC=C3)=C2C(C(O)=O)CC4=CC=CC=C4, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 27.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2-phenethylphenyl)(phenyl)methanone with SMILES O=C(C1=CC=CC=C1)C2=CC=CC=C2CCC3=CC=CC=C3, the second reactant is potassium (3-bromophenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC=CC(Br)=C1.[K+], the product formed is 2-(3-benzoyl-3'-bromo-[1,1'-biphenyl]-2-yl)-3-phenylpropanoic acid with SMILES O=C(C1=CC=CC=C1)C2=CC=CC(C3=CC(Br)=CC=C3)=C2C(C(O)=O)CC4=CC=CC=C4, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 34.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2-phenethylphenyl)(phenyl)methanone with SMILES O=C(C1=CC=CC=C1)C2=CC=CC=C2CCC3=CC=CC=C3, the second reactant is potassium trifluoro(3-nitrophenyl)borate with SMILES F[B-](F)(F)C1=CC=CC([N+]([O-])=O)=C1.[K+], the product formed is 2-(3-benzoyl-3'-nitro-[1,1'-biphenyl]-2-yl)-3-phenylpropanoic acid with SMILES O=C(C1=CC=CC=C1)C2=CC=CC(C3=CC([N+]([O-])=O)=CC=C3)=C2C(C(O)=O)CC4=CC=CC=C4, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 21.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2-phenethylphenyl)(phenyl)methanone with SMILES O=C(C1=CC=CC=C1)C2=CC=CC=C2CCC3=CC=CC=C3, the second reactant is potassium (3-cyanophenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC=CC(C#N)=C1.[K+], the product formed is 2-(3-benzoyl-3'-cyano-[1,1'-biphenyl]-2-yl)-3-phenylpropanoic acid with SMILES O=C(C1=CC=CC=C1)C2=CC=CC(C3=CC(C#N)=CC=C3)=C2C(C(O)=O)CC4=CC=CC=C4, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 21.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2-phenethylphenyl)(phenyl)methanone with SMILES O=C(C1=CC=CC=C1)C2=CC=CC=C2CCC3=CC=CC=C3, the second reactant is potassium trifluoro(3-methoxyphenyl)borate with SMILES F[B-](F)(F)C1=CC=CC(OC)=C1.[K+], the product formed is 2-(3-benzoyl-3'-methoxy-[1,1'-biphenyl]-2-yl)-3-phenylpropanoic acid with SMILES O=C(C1=CC=CC=C1)C2=CC=CC(C3=CC(OC)=CC=C3)=C2C(C(O)=O)CC4=CC=CC=C4, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 39.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2-phenethylphenyl)(phenyl)methanone with SMILES O=C(C1=CC=CC=C1)C2=CC=CC=C2CCC3=CC=CC=C3, the second reactant is potassium (3-(benzyloxy)phenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC=CC(OCC2=CC=CC=C2)=C1.[K+], the product formed is 2-(3-benzoyl-3'-(benzyloxy)-[1,1'-biphenyl]-2-yl)-3-phenylpropanoic acid with SMILES O=C(C1=CC=CC=C1)C2=CC=CC(C3=CC(OCC4=CC=CC=C4)=CC=C3)=C2C(C(O)=O)CC5=CC=CC=C5, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 41.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2-phenethylphenyl)(phenyl)methanone with SMILES O=C(C1=CC=CC=C1)C2=CC=CC=C2CCC3=CC=CC=C3, the second reactant is potassium (2-cyanophenyl)trifluoroborate with SMILES F[B-](F)(F)C1=C(C#N)C=CC=C1.[K+], the product formed is 2-(3-benzoyl-2'-cyano-[1,1'-biphenyl]-2-yl)-3-phenylpropanoic acid with SMILES O=C(C1=CC=CC=C1)C2=CC=CC(C3=C(C#N)C=CC=C3)=C2C(C(O)=O)CC4=CC=CC=C4, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2-phenethylphenyl)(phenyl)methanone with SMILES O=C(C1=CC=CC=C1)C2=CC=CC=C2CCC3=CC=CC=C3, the second reactant is potassium trifluoro(2-(methylsulfonyl)phenyl)borate with SMILES F[B-](F)(F)C1=C(S(=O)(C)=O)C=CC=C1.[K+], the product formed is 2-(3-benzoyl-2'-(methylsulfonyl)-[1,1'-biphenyl]-2-yl)-3-phenylpropanoic acid with SMILES O=C(C1=CC=CC=C1)C2=CC=CC(C3=C(S(=O)(C)=O)C=CC=C3)=C2C(C(O)=O)CC4=CC=CC=C4, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2-phenethylphenyl)(phenyl)methanone with SMILES O=C(C1=CC=CC=C1)C2=CC=CC=C2CCC3=CC=CC=C3, the second reactant is potassium trifluoro(o-tolyl)borate with SMILES F[B-](F)(F)C1=C(C)C=CC=C1.[K+], the product formed is 2-(3-benzoyl-2'-methyl-[1,1'-biphenyl]-2-yl)-3-phenylpropanoic acid with SMILES O=C(C1=CC=CC=C1)C2=CC=CC(C3=C(C)C=CC=C3)=C2C(C(O)=O)CC4=CC=CC=C4, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2-phenethylphenyl)(phenyl)methanone with SMILES O=C(C1=CC=CC=C1)C2=CC=CC=C2CCC3=CC=CC=C3, the second reactant is potassium trifluoro(2-methoxyphenyl)borate with SMILES F[B-](F)(F)C1=C(OC)C=CC=C1.[K+], the product formed is 2-(3-benzoyl-2'-methoxy-[1,1'-biphenyl]-2-yl)-3-phenylpropanoic acid with SMILES O=C(C1=CC=CC=C1)C2=CC=CC(C3=C(OC)C=CC=C3)=C2C(C(O)=O)CC4=CC=CC=C4, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 17.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2-phenethylphenyl)(phenyl)methanone with SMILES O=C(C1=CC=CC=C1)C2=CC=CC=C2CCC3=CC=CC=C3, the second reactant is potassium (3,5-bis(trifluoromethyl)phenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC(C(F)(F)F)=CC(C(F)(F)F)=C1.[K+], the product formed is 2-(3-benzoyl-3',5'-bis(trifluoromethyl)-[1,1'-biphenyl]-2-yl)-3-phenylpropanoic acid with SMILES O=C(C1=CC=CC=C1)C2=CC=CC(C3=CC(C(F)(F)F)=CC(C(F)(F)F)=C3)=C2C(C(O)=O)CC4=CC=CC=C4, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2-phenethylphenyl)(phenyl)methanone with SMILES O=C(C1=CC=CC=C1)C2=CC=CC=C2CCC3=CC=CC=C3, the second reactant is potassium (3-chloro-4-fluorophenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC(Cl)=C(F)C=C1.[K+], the product formed is 2-(3-benzoyl-3'-chloro-4'-fluoro-[1,1'-biphenyl]-2-yl)-3-phenylpropanoic acid with SMILES O=C(C1=CC=CC=C1)C2=CC=CC(C3=CC(Cl)=C(F)C=C3)=C2C(C(O)=O)CC4=CC=CC=C4, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 18.5%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2-phenethylphenyl)(phenyl)methanone with SMILES O=C(C1=CC=CC=C1)C2=CC=CC=C2CCC3=CC=CC=C3, the second reactant is potassium (2,4-dichlorophenyl)trifluoroborate with SMILES F[B-](F)(F)C1=C(Cl)C=C(Cl)C=C1.[K+], the product formed is 2-(3-benzoyl-2',4'-dichloro-[1,1'-biphenyl]-2-yl)-3-phenylpropanoic acid with SMILES O=C(C1=CC=CC=C1)C2=CC=CC(C3=C(Cl)C=C(Cl)C=C3)=C2C(C(O)=O)CC4=CC=CC=C4, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2-phenethylphenyl)(phenyl)methanone with SMILES O=C(C1=CC=CC=C1)C2=CC=CC=C2CCC3=CC=CC=C3, the second reactant is potassium (2,4-dimethylphenyl)trifluoroborate with SMILES F[B-](F)(F)C1=C(C)C=C(C)C=C1.[K+], the product formed is 2-(3-benzoyl-2',4'-dimethyl-[1,1'-biphenyl]-2-yl)-3-phenylpropanoic acid with SMILES O=C(C1=CC=CC=C1)C2=CC=CC(C3=C(C)C=C(C)C=C3)=C2C(C(O)=O)CC4=CC=CC=C4, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2-phenethylphenyl)(phenyl)methanone with SMILES O=C(C1=CC=CC=C1)C2=CC=CC=C2CCC3=CC=CC=C3, the second reactant is potassium (2,6-difluorophenyl)trifluoroborate with SMILES F[B-](F)(F)C1=C(F)C=CC=C1F.[K+], the product formed is 2-(3-benzoyl-2',6'-difluoro-[1,1'-biphenyl]-2-yl)-3-phenylpropanoic acid with SMILES O=C(C1=CC=CC=C1)C2=CC=CC(C3=C(F)C=CC=C3F)=C2C(C(O)=O)CC4=CC=CC=C4, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2-phenethylphenyl)(phenyl)methanone with SMILES O=C(C1=CC=CC=C1)C2=CC=CC=C2CCC3=CC=CC=C3, the second reactant is potassium (2,6-dimethylphenyl)trifluoroborate with SMILES F[B-](F)(F)C1=C(C)C=CC=C1C.[K+], the product formed is 2-(3-benzoyl-2',6'-dimethyl-[1,1'-biphenyl]-2-yl)-3-phenylpropanoic acid with SMILES O=C(C1=CC=CC=C1)C2=CC=CC(C3=C(C)C=CC=C3C)=C2C(C(O)=O)CC4=CC=CC=C4, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2-phenethylphenyl)(phenyl)methanone with SMILES O=C(C1=CC=CC=C1)C2=CC=CC=C2CCC3=CC=CC=C3, the second reactant is potassium trifluoro(naphthalen-1-yl)borate with SMILES F[B-](F)(F)C1=C(C=CC=C2)C2=CC=C1.[K+], the product formed is 2-(2-benzoyl-6-(naphthalen-1-yl)phenyl)-3-phenylpropanoic acid with SMILES O=C(C1=CC=CC=C1)C2=CC=CC(C3=C(C=CC=C4)C4=CC=C3)=C2C(C(O)=O)CC5=CC=CC=C5, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2-phenethylphenyl)(phenyl)methanone with SMILES O=C(C1=CC=CC=C1)C2=CC=CC=C2CCC3=CC=CC=C3, the second reactant is potassium trifluoro(naphthalen-2-yl)borate with SMILES F[B-](F)(F)C1=CC(C=CC=C2)=C2C=C1.[K+], the product formed is 2-(2-benzoyl-6-(naphthalen-2-yl)phenyl)-3-phenylpropanoic acid with SMILES O=C(C1=CC=CC=C1)C2=CC=CC(C3=CC(C=CC=C4)=C4C=C3)=C2C(C(O)=O)CC5=CC=CC=C5, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 30.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2-phenethylphenyl)(phenyl)methanone with SMILES O=C(C1=CC=CC=C1)C2=CC=CC=C2CCC3=CC=CC=C3, the second reactant is potassium benzo[d][1,3]dioxol-5-yltrifluoroborate with SMILES F[B-](F)(F)C1=CC(OCO2)=C2C=C1.[K+], the product formed is 2-(2-(benzo[d][1,3]dioxol-5-yl)-6-benzoylphenyl)-3-phenylpropanoic acid with SMILES O=C(C1=CC=CC=C1)C2=CC=CC(C3=CC(OCO4)=C4C=C3)=C2C(C(O)=O)CC5=CC=CC=C5, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 43.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2-phenethylphenyl)(phenyl)methanone with SMILES O=C(C1=CC=CC=C1)C2=CC=CC=C2CCC3=CC=CC=C3, the second reactant is potassium (4-acetylphenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC=C(C(C)=O)C=C1.[K+], the product formed is 2-(4'-acetyl-3-benzoyl-[1,1'-biphenyl]-2-yl)-3-phenylpropanoic acid with SMILES O=C(C1=CC=CC=C1)C2=CC=CC(C3=CC=C(C(C)=O)C=C3)=C2C(C(O)=O)CC4=CC=CC=C4, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 26.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2-phenethylphenyl)(phenyl)methanone with SMILES O=C(C1=CC=CC=C1)C2=CC=CC=C2CCC3=CC=CC=C3, the second reactant is potassium (4-carboxyphenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC=C(C(O)=O)C=C1.[K+], the product formed is 3'-benzoyl-2'-(1-carboxy-2-phenylethyl)-[1,1'-biphenyl]-4-carboxylic acid with SMILES O=C(C1=CC=CC=C1)C2=CC=CC(C3=CC=C(C(O)=O)C=C3)=C2C(C(O)=O)CC4=CC=CC=C4, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2-phenethylphenyl)(phenyl)methanone with SMILES O=C(C1=CC=CC=C1)C2=CC=CC=C2CCC3=CC=CC=C3, the second reactant is potassium trifluoro(4-hydroxyphenyl)borate with SMILES F[B-](F)(F)C1=CC=C(O)C=C1.[K+], the product formed is 2-(3-benzoyl-4'-hydroxy-[1,1'-biphenyl]-2-yl)-3-phenylpropanoic acid with SMILES O=C(C1=CC=CC=C1)C2=CC=CC(C3=CC=C(O)C=C3)=C2C(C(O)=O)CC4=CC=CC=C4, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 27.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2-phenethylphenyl)(phenyl)methanone with SMILES O=C(C1=CC=CC=C1)C2=CC=CC=C2CCC3=CC=CC=C3, the second reactant is potassium trifluoro(4-formylphenyl)borate with SMILES F[B-](F)(F)C1=CC=C(C=O)C=C1.[K+], the product formed is 2-(3-benzoyl-4'-formyl-[1,1'-biphenyl]-2-yl)-3-phenylpropanoic acid with SMILES O=C(C1=CC=CC=C1)C2=CC=CC(C3=CC=C(C=O)C=C3)=C2C(C(O)=O)CC4=CC=CC=C4, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 16.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2-phenethylphenyl)(phenyl)methanone with SMILES O=C(C1=CC=CC=C1)C2=CC=CC=C2CCC3=CC=CC=C3, the second reactant is potassium trifluoro(furan-2-yl)borate with SMILES F[B-](F)(F)C1=CC=CO1.[K+], the product formed is 2-(2-benzoyl-6-(furan-2-yl)phenyl)-3-phenylpropanoic acid with SMILES O=C(C1=CC=CC=C1)C2=CC=CC(C3=CC=CO3)=C2C(C(O)=O)CC4=CC=CC=C4, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2-phenethylphenyl)(phenyl)methanone with SMILES O=C(C1=CC=CC=C1)C2=CC=CC=C2CCC3=CC=CC=C3, the second reactant is potassium trifluoro(thiophen-2-yl)borate with SMILES F[B-](F)(F)C1=CC=CS1.[K+], the product formed is 2-(2-benzoyl-6-(thiophen-2-yl)phenyl)-3-phenylpropanoic acid with SMILES O=C(C1=CC=CC=C1)C2=CC=CC(C3=CC=CS3)=C2C(C(O)=O)CC4=CC=CC=C4, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 24.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2-phenethylphenyl)(phenyl)methanone with SMILES O=C(C1=CC=CC=C1)C2=CC=CC=C2CCC3=CC=CC=C3, the second reactant is potassium trifluoro(thiophen-3-yl)borate with SMILES F[B-](F)(F)C1=CSC=C1.[K+], the product formed is 2-(2-benzoyl-6-(thiophen-3-yl)phenyl)-3-phenylpropanoic acid with SMILES O=C(C1=CC=CC=C1)C2=CC=CC(C3=CSC=C3)=C2C(C(O)=O)CC4=CC=CC=C4, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 20.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2-phenethylphenyl)(phenyl)methanone with SMILES O=C(C1=CC=CC=C1)C2=CC=CC=C2CCC3=CC=CC=C3, the second reactant is potassium trifluoro(1-methyl-1H-pyrazol-5-yl)borate with SMILES F[B-](F)(F)C1=CC=NN1C.[K+], the product formed is 2-(2-benzoyl-6-(1-methyl-1H-pyrazol-5-yl)phenyl)-3-phenylpropanoic acid with SMILES O=C(C1=CC=CC=C1)C2=CC=CC(C3=CC=NN3C)=C2C(C(O)=O)CC4=CC=CC=C4, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2-phenethylphenyl)(phenyl)methanone with SMILES O=C(C1=CC=CC=C1)C2=CC=CC=C2CCC3=CC=CC=C3, the second reactant is potassium trifluoro(pyridin-4-yl)borate with SMILES F[B-](F)(F)C1=CC=NC=C1.[K+], the product formed is 2-(2-benzoyl-6-(pyridin-4-yl)phenyl)-3-phenylpropanoic acid with SMILES O=C(C1=CC=CC=C1)C2=CC=CC(C3=CC=NC=C3)=C2C(C(O)=O)CC4=CC=CC=C4, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2-phenethylphenyl)(phenyl)methanone with SMILES O=C(C1=CC=CC=C1)C2=CC=CC=C2CCC3=CC=CC=C3, the second reactant is potassium trifluoro(6-fluoropyridin-3-yl)borate with SMILES F[B-](F)(F)C1=CN=C(F)C=C1.[K+], the product formed is 2-(2-benzoyl-6-(6-fluoropyridin-3-yl)phenyl)-3-phenylpropanoic acid with SMILES O=C(C1=CC=CC=C1)C2=CC=CC(C3=CN=C(F)C=C3)=C2C(C(O)=O)CC4=CC=CC=C4, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 13.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2-phenethylphenyl)(phenyl)methanone with SMILES O=C(C1=CC=CC=C1)C2=CC=CC=C2CCC3=CC=CC=C3, the second reactant is potassium (6-chloropyridin-3-yl)trifluoroborate with SMILES F[B-](F)(F)C1=CN=C(Cl)C=C1.[K+], the product formed is 2-(2-benzoyl-6-(6-chloropyridin-3-yl)phenyl)-3-phenylpropanoic acid with SMILES O=C(C1=CC=CC=C1)C2=CC=CC(C3=CN=C(Cl)C=C3)=C2C(C(O)=O)CC4=CC=CC=C4, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 20.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2,6-dimethylpyridin-4-yl)(o-tolyl)methanone with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC=C2C, the second reactant is potassium trifluoro(phenyl)borate with SMILES F[B-](F)(F)C1=CC=CC=C1.[K+], the product formed is 2-(3-(2,6-dimethylisonicotinoyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC(C3=CC=CC=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 47.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2,6-dimethylpyridin-4-yl)(o-tolyl)methanone with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC=C2C, the second reactant is potassium trifluoro(4-fluorophenyl)borate with SMILES F[B-](F)(F)C1=CC=C(F)C=C1.[K+], the product formed is 2-(3-(2,6-dimethylisonicotinoyl)-4'-fluoro-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC(C3=CC=C(F)C=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 40.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2,6-dimethylpyridin-4-yl)(o-tolyl)methanone with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC=C2C, the second reactant is potassium (4-chlorophenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC=C(Cl)C=C1.[K+], the product formed is 2-(4'-chloro-3-(2,6-dimethylisonicotinoyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC(C3=CC=C(Cl)C=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 30.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2,6-dimethylpyridin-4-yl)(o-tolyl)methanone with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC=C2C, the second reactant is potassium (4-bromophenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC=C(Br)C=C1.[K+], the product formed is 2-(4'-bromo-3-(2,6-dimethylisonicotinoyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC(C3=CC=C(Br)C=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 28.5%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2,6-dimethylpyridin-4-yl)(o-tolyl)methanone with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC=C2C, the second reactant is potassium trifluoro(4-(trifluoromethyl)phenyl)borate with SMILES F[B-](F)(F)C1=CC=C(C(F)(F)F)C=C1.[K+], the product formed is 2-(3-(2,6-dimethylisonicotinoyl)-4'-(trifluoromethyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC(C3=CC=C(C(F)(F)F)C=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 30.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2,6-dimethylpyridin-4-yl)(o-tolyl)methanone with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC=C2C, the second reactant is potassium (4-cyanophenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC=C(C#N)C=C1.[K+], the product formed is 2-(4'-cyano-3-(2,6-dimethylisonicotinoyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC(C3=CC=C(C#N)C=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 31.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2,6-dimethylpyridin-4-yl)(o-tolyl)methanone with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC=C2C, the second reactant is potassium trifluoro(4-nitrophenyl)borate with SMILES F[B-](F)(F)C1=CC=C([N+]([O-])=O)C=C1.[K+], the product formed is 2-(3-(2,6-dimethylisonicotinoyl)-4'-nitro-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC(C3=CC=C([N+]([O-])=O)C=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 12.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2,6-dimethylpyridin-4-yl)(o-tolyl)methanone with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC=C2C, the second reactant is potassium trifluoro(p-tolyl)borate with SMILES F[B-](F)(F)C1=CC=C(C)C=C1.[K+], the product formed is 2-(3-(2,6-dimethylisonicotinoyl)-4'-methyl-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC(C3=CC=C(C)C=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 37.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2,6-dimethylpyridin-4-yl)(o-tolyl)methanone with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC=C2C, the second reactant is potassium (4-(tert-butyl)phenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC=C(C(C)(C)C)C=C1.[K+], the product formed is 2-(4'-(tert-butyl)-3-(2,6-dimethylisonicotinoyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC(C3=CC=C(C(C)(C)C)C=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 23.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2,6-dimethylpyridin-4-yl)(o-tolyl)methanone with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC=C2C, the second reactant is potassium trifluoro(4-methoxyphenyl)borate with SMILES F[B-](F)(F)C1=CC=C(OC)C=C1.[K+], the product formed is 2-(3-(2,6-dimethylisonicotinoyl)-4'-methoxy-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC(C3=CC=C(OC)C=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 34.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2,6-dimethylpyridin-4-yl)(o-tolyl)methanone with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC=C2C, the second reactant is potassium (4-butoxyphenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC=C(OCCCC)C=C1.[K+], the product formed is 2-(4'-butoxy-3-(2,6-dimethylisonicotinoyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC(C3=CC=C(OCCCC)C=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 34.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2,6-dimethylpyridin-4-yl)(o-tolyl)methanone with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC=C2C, the second reactant is potassium (4-(benzyloxy)phenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC=C(OCC2=CC=CC=C2)C=C1.[K+], the product formed is 2-(4'-(benzyloxy)-3-(2,6-dimethylisonicotinoyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC(C3=CC=C(OCC4=CC=CC=C4)C=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 32.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2,6-dimethylpyridin-4-yl)(o-tolyl)methanone with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC=C2C, the second reactant is potassium trifluoro(3-fluorophenyl)borate with SMILES F[B-](F)(F)C1=CC=CC(F)=C1.[K+], the product formed is 2-(3-(2,6-dimethylisonicotinoyl)-3'-fluoro-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC(C3=CC(F)=CC=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 31.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2,6-dimethylpyridin-4-yl)(o-tolyl)methanone with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC=C2C, the second reactant is potassium (3-chlorophenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC=CC(Cl)=C1.[K+], the product formed is 2-(3'-chloro-3-(2,6-dimethylisonicotinoyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC(C3=CC(Cl)=CC=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 20.5%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2,6-dimethylpyridin-4-yl)(o-tolyl)methanone with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC=C2C, the second reactant is potassium (3-bromophenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC=CC(Br)=C1.[K+], the product formed is 2-(3'-bromo-3-(2,6-dimethylisonicotinoyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC(C3=CC(Br)=CC=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 12.5%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2,6-dimethylpyridin-4-yl)(o-tolyl)methanone with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC=C2C, the second reactant is potassium trifluoro(3-nitrophenyl)borate with SMILES F[B-](F)(F)C1=CC=CC([N+]([O-])=O)=C1.[K+], the product formed is 2-(3-(2,6-dimethylisonicotinoyl)-3'-nitro-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC(C3=CC([N+]([O-])=O)=CC=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 5.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2,6-dimethylpyridin-4-yl)(o-tolyl)methanone with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC=C2C, the second reactant is potassium (3-cyanophenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC=CC(C#N)=C1.[K+], the product formed is 2-(3'-cyano-3-(2,6-dimethylisonicotinoyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC(C3=CC(C#N)=CC=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 6.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2,6-dimethylpyridin-4-yl)(o-tolyl)methanone with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC=C2C, the second reactant is potassium trifluoro(3-methoxyphenyl)borate with SMILES F[B-](F)(F)C1=CC=CC(OC)=C1.[K+], the product formed is 2-(3-(2,6-dimethylisonicotinoyl)-3'-methoxy-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC(C3=CC(OC)=CC=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 43.5%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2,6-dimethylpyridin-4-yl)(o-tolyl)methanone with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC=C2C, the second reactant is potassium (3-(benzyloxy)phenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC=CC(OCC2=CC=CC=C2)=C1.[K+], the product formed is 2-(3'-(benzyloxy)-3-(2,6-dimethylisonicotinoyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC(C3=CC(OCC4=CC=CC=C4)=CC=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 42.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2,6-dimethylpyridin-4-yl)(o-tolyl)methanone with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC=C2C, the second reactant is potassium (2-cyanophenyl)trifluoroborate with SMILES F[B-](F)(F)C1=C(C#N)C=CC=C1.[K+], the product formed is 2-(2'-cyano-3-(2,6-dimethylisonicotinoyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC(C3=C(C#N)C=CC=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2,6-dimethylpyridin-4-yl)(o-tolyl)methanone with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC=C2C, the second reactant is potassium trifluoro(2-(methylsulfonyl)phenyl)borate with SMILES F[B-](F)(F)C1=C(S(=O)(C)=O)C=CC=C1.[K+], the product formed is 2-(3-(2,6-dimethylisonicotinoyl)-2'-(methylsulfonyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC(C3=C(S(=O)(C)=O)C=CC=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2,6-dimethylpyridin-4-yl)(o-tolyl)methanone with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC=C2C, the second reactant is potassium trifluoro(o-tolyl)borate with SMILES F[B-](F)(F)C1=C(C)C=CC=C1.[K+], the product formed is 2-(3-(2,6-dimethylisonicotinoyl)-2'-methyl-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC(C3=C(C)C=CC=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2,6-dimethylpyridin-4-yl)(o-tolyl)methanone with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC=C2C, the second reactant is potassium trifluoro(2-methoxyphenyl)borate with SMILES F[B-](F)(F)C1=C(OC)C=CC=C1.[K+], the product formed is 2-(3-(2,6-dimethylisonicotinoyl)-2'-methoxy-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC(C3=C(OC)C=CC=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2,6-dimethylpyridin-4-yl)(o-tolyl)methanone with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC=C2C, the second reactant is potassium (3,5-bis(trifluoromethyl)phenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC(C(F)(F)F)=CC(C(F)(F)F)=C1.[K+], the product formed is 2-(3-(2,6-dimethylisonicotinoyl)-3',5'-bis(trifluoromethyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC(C3=CC(C(F)(F)F)=CC(C(F)(F)F)=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2,6-dimethylpyridin-4-yl)(o-tolyl)methanone with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC=C2C, the second reactant is potassium (3-chloro-4-fluorophenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC(Cl)=C(F)C=C1.[K+], the product formed is 2-(3'-chloro-3-(2,6-dimethylisonicotinoyl)-4'-fluoro-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC(C3=CC(Cl)=C(F)C=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 5.5%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2,6-dimethylpyridin-4-yl)(o-tolyl)methanone with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC=C2C, the second reactant is potassium (2,4-dichlorophenyl)trifluoroborate with SMILES F[B-](F)(F)C1=C(Cl)C=C(Cl)C=C1.[K+], the product formed is 2-(2',4'-dichloro-3-(2,6-dimethylisonicotinoyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC(C3=C(Cl)C=C(Cl)C=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2,6-dimethylpyridin-4-yl)(o-tolyl)methanone with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC=C2C, the second reactant is potassium (2,4-dimethylphenyl)trifluoroborate with SMILES F[B-](F)(F)C1=C(C)C=C(C)C=C1.[K+], the product formed is 2-(3-(2,6-dimethylisonicotinoyl)-2',4'-dimethyl-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC(C3=C(C)C=C(C)C=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2,6-dimethylpyridin-4-yl)(o-tolyl)methanone with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC=C2C, the second reactant is potassium (2,6-difluorophenyl)trifluoroborate with SMILES F[B-](F)(F)C1=C(F)C=CC=C1F.[K+], the product formed is 2-(3-(2,6-dimethylisonicotinoyl)-2',6'-difluoro-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC(C3=C(F)C=CC=C3F)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2,6-dimethylpyridin-4-yl)(o-tolyl)methanone with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC=C2C, the second reactant is potassium (2,6-dimethylphenyl)trifluoroborate with SMILES F[B-](F)(F)C1=C(C)C=CC=C1C.[K+], the product formed is 2-(3-(2,6-dimethylisonicotinoyl)-2',6'-dimethyl-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC(C3=C(C)C=CC=C3C)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2,6-dimethylpyridin-4-yl)(o-tolyl)methanone with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC=C2C, the second reactant is potassium trifluoro(naphthalen-1-yl)borate with SMILES F[B-](F)(F)C1=C(C=CC=C2)C2=CC=C1.[K+], the product formed is 2-(2-(2,6-dimethylisonicotinoyl)-6-(naphthalen-1-yl)phenyl)acetic acid with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC(C3=C(C=CC=C4)C4=CC=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 8.5%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2,6-dimethylpyridin-4-yl)(o-tolyl)methanone with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC=C2C, the second reactant is potassium trifluoro(naphthalen-2-yl)borate with SMILES F[B-](F)(F)C1=CC(C=CC=C2)=C2C=C1.[K+], the product formed is 2-(2-(2,6-dimethylisonicotinoyl)-6-(naphthalen-2-yl)phenyl)acetic acid with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC(C3=CC(C=CC=C4)=C4C=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 36.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2,6-dimethylpyridin-4-yl)(o-tolyl)methanone with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC=C2C, the second reactant is potassium benzo[d][1,3]dioxol-5-yltrifluoroborate with SMILES F[B-](F)(F)C1=CC(OCO2)=C2C=C1.[K+], the product formed is 2-(2-(benzo[d][1,3]dioxol-5-yl)-6-(2,6-dimethylisonicotinoyl)phenyl)acetic acid with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC(C3=CC(OCO4)=C4C=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 16.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2,6-dimethylpyridin-4-yl)(o-tolyl)methanone with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC=C2C, the second reactant is potassium (4-acetylphenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC=C(C(C)=O)C=C1.[K+], the product formed is 2-(4'-acetyl-3-(2,6-dimethylisonicotinoyl)-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC(C3=CC=C(C(C)=O)C=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 28.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2,6-dimethylpyridin-4-yl)(o-tolyl)methanone with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC=C2C, the second reactant is potassium (4-carboxyphenyl)trifluoroborate with SMILES F[B-](F)(F)C1=CC=C(C(O)=O)C=C1.[K+], the product formed is 2'-(carboxymethyl)-3'-(2,6-dimethylisonicotinoyl)-[1,1'-biphenyl]-4-carboxylic acid with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC(C3=CC=C(C(O)=O)C=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2,6-dimethylpyridin-4-yl)(o-tolyl)methanone with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC=C2C, the second reactant is potassium trifluoro(4-hydroxyphenyl)borate with SMILES F[B-](F)(F)C1=CC=C(O)C=C1.[K+], the product formed is 2-(3-(2,6-dimethylisonicotinoyl)-4'-hydroxy-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC(C3=CC=C(O)C=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 13.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2,6-dimethylpyridin-4-yl)(o-tolyl)methanone with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC=C2C, the second reactant is potassium trifluoro(4-formylphenyl)borate with SMILES F[B-](F)(F)C1=CC=C(C=O)C=C1.[K+], the product formed is 2-(3-(2,6-dimethylisonicotinoyl)-4'-formyl-[1,1'-biphenyl]-2-yl)acetic acid with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC(C3=CC=C(C=O)C=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2,6-dimethylpyridin-4-yl)(o-tolyl)methanone with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC=C2C, the second reactant is potassium trifluoro(furan-2-yl)borate with SMILES F[B-](F)(F)C1=CC=CO1.[K+], the product formed is 2-(2-(2,6-dimethylisonicotinoyl)-6-(furan-2-yl)phenyl)acetic acid with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC(C3=CC=CO3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 9.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2,6-dimethylpyridin-4-yl)(o-tolyl)methanone with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC=C2C, the second reactant is potassium trifluoro(thiophen-2-yl)borate with SMILES F[B-](F)(F)C1=CC=CS1.[K+], the product formed is 2-(2-(2,6-dimethylisonicotinoyl)-6-(thiophen-2-yl)phenyl)acetic acid with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC(C3=CC=CS3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 9.5%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2,6-dimethylpyridin-4-yl)(o-tolyl)methanone with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC=C2C, the second reactant is potassium trifluoro(thiophen-3-yl)borate with SMILES F[B-](F)(F)C1=CSC=C1.[K+], the product formed is 2-(2-(2,6-dimethylisonicotinoyl)-6-(thiophen-3-yl)phenyl)acetic acid with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC(C3=CSC=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 8.5%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2,6-dimethylpyridin-4-yl)(o-tolyl)methanone with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC=C2C, the second reactant is potassium trifluoro(1-methyl-1H-pyrazol-5-yl)borate with SMILES F[B-](F)(F)C1=CC=NN1C.[K+], the product formed is 2-(2-(2,6-dimethylisonicotinoyl)-6-(1-methyl-1H-pyrazol-5-yl)phenyl)acetic acid with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC(C3=CC=NN3C)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2,6-dimethylpyridin-4-yl)(o-tolyl)methanone with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC=C2C, the second reactant is potassium trifluoro(pyridin-4-yl)borate with SMILES F[B-](F)(F)C1=CC=NC=C1.[K+], the product formed is 2-(2-(2,6-dimethylisonicotinoyl)-6-(pyridin-4-yl)phenyl)acetic acid with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC(C3=CC=NC=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 0.0%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2,6-dimethylpyridin-4-yl)(o-tolyl)methanone with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC=C2C, the second reactant is potassium trifluoro(6-fluoropyridin-3-yl)borate with SMILES F[B-](F)(F)C1=CN=C(F)C=C1.[K+], the product formed is 2-(2-(2,6-dimethylisonicotinoyl)-6-(6-fluoropyridin-3-yl)phenyl)acetic acid with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC(C3=CN=C(F)C=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 12.5%.",
+        "history": []
+    },
+    {
+        "instruction": "What is the yield of this reaction?",
+        "input": "The first reactant is (2,6-dimethylpyridin-4-yl)(o-tolyl)methanone with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC=C2C, the second reactant is potassium (6-chloropyridin-3-yl)trifluoroborate with SMILES F[B-](F)(F)C1=CN=C(Cl)C=C1.[K+], the product formed is 2-(2-(6-chloropyridin-3-yl)-6-(2,6-dimethylisonicotinoyl)phenyl)acetic acid with SMILES O=C(C1=CC(C)=NC(C)=C1)C2=CC=CC(C3=CN=C(Cl)C=C3)=C2CC(O)=O, This is a SHC-oAK reaction.",
+        "output": "OK, this is a SHC-oAK reaction. Based on the chemical reaction information you provided, the yield of this reaction is: 9.0%.",
+        "history": []
+    }
+]
